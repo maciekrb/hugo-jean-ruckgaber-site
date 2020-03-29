@@ -23,7 +23,7 @@ In 1826 Ruckgaber settled in Lviv for good. He played concerts, worked as a pian
 ## Family
 On the 15th of August 1834, at the age of nearly 35, Jan Ruckgaber married Maria Xavier Markl, who was born in Lviv, on the 8th of August 1819. She was the daughter of a Hungarian baron John Markl and a Polish woman Jane née Balewicz. They had six children:
 
-{{<figure src="/images/ernest-ruckgaber.png" class="short-caption" width="340" alt="Ernest Ruckgaber" caption="Ernest Ruckgaber (family archive)">}}
+{{<figure src="/images/ernest-ruckgaber.png" class="short-caption" width="320" alt="Ernest Ruckgaber" caption="Ernest Ruckgaber (family archive)">}}
 
 **Victor** – a soldier, promoted to the highest rank amongst his brothers. Retired, lived as a bachelor in Vienna.
 
@@ -39,7 +39,7 @@ On the 15th of August 1834, at the age of nearly 35, Jan Ruckgaber married Maria
 
 
 ## Professional Achievements
-{{<figure src="/images/ferenc-liszt.png" class="short-caption" alt="Ferenc Liszt" caption="Ferenc Liszt, a drawing by Julius Kossak (www.twojamuza.pl, Aug., 2013)">}}
+{{<figure src="/images/ferenc-liszt.png" width="300px" class="short-caption" alt="Ferenc Liszt" caption="Ferenc Liszt, a drawing by Julius Kossak (www.twojamuza.pl, Aug., 2013)">}}
 
 A gifted musician, admired as a pianist and a composer of popular music, Jan Ruckgaber was a lively, charismatic figure. He played piano concerts in many European towns. In the mid-1840s, in Paris he met Fryderyk Chopin and Ferenc Liszt, an eminent Hungarian composer and a legendary piano virtuoso.  
 
