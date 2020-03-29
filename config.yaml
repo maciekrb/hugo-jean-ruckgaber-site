@@ -1,0 +1,14 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: Jean Ruckgaber
+themesDir: themes
+theme: hyde
+
+params:
+  description: Forgotten composer
+Menus:
+  main:
+    - Name: "Github"
+      URL: "https://github.com/username/"
+    - Name: "LinkedIn"
+      URL: "https://www.linkedin.com/in/username/"
